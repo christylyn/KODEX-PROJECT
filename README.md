@@ -1,3 +1,4 @@
 # KODEX-PROJECT
 
 ![DASHBOARD](DASHBOARD2.PNG)
+![SECOND](Captureproject.PNG)
